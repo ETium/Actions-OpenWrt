@@ -3,6 +3,8 @@
 ### 固件发布:
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/h31105/Actions-OpenWrt-R3P?style=for-the-badge&label=固件下载)](https://github.com/h31105/Actions-OpenWrt-R3P/releases/latest)
 
+- 精简版（仅包含DDNS、UPnP、ZeroTier、Turbo ACC）
+
 #### 固件源码来源
 - 官方-[openwrt/openwrt](https://github.com/openwrt/openwrt).
 ```bash
